@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "rating": 4.8,
+    "plays": "1.2M"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "url": "https://hextris.io/",
+    "category": "Puzzle",
+    "description": "A fast-paced puzzle game inspired by Tetris.",
+    "rating": 4.5,
+    "plays": "850K"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "url": "https://macek.github.io/google_pacman/",
+    "category": "Retro",
+    "description": "The classic arcade game where you munch dots and dodge ghosts.",
+    "rating": 4.9,
+    "plays": "2.5M"
+  },
+  {
+    "id": "snake",
+    "title": "Classic Snake",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "url": "https://snake.io/",
+    "category": "Retro",
+    "description": "The nostalgic snake game. Eat to grow longer.",
+    "rating": 4.4,
+    "plays": "1.1M"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "url": "https://slope.io/",
+    "category": "Action",
+    "description": "Drive a ball down a steep slope while avoiding obstacles.",
+    "rating": 4.7,
+    "plays": "3.1M"
+  },
+  {
+    "id": "chess",
+    "title": "Chess Pro",
+    "thumbnail": "https://picsum.photos/seed/chess/400/300",
+    "url": "https://lichess.org/embed/game/TvA7b0p4?theme=auto&bg=auto",
+    "category": "Strategy",
+    "description": "Challenge yourself with the ultimate game of strategy.",
+    "rating": 4.8,
+    "plays": "400K"
+  }
+]
